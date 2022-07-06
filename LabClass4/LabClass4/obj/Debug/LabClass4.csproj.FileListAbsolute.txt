@@ -1,0 +1,11 @@
+E:\2nd Year\c#\LabClass4\LabClass4\bin\Debug\LabClass4.exe.config
+E:\2nd Year\c#\LabClass4\LabClass4\bin\Debug\LabClass4.exe
+E:\2nd Year\c#\LabClass4\LabClass4\bin\Debug\LabClass4.pdb
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.csproj.AssemblyReference.cache
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.csproj.SuggestedBindingRedirects.cache
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.Form1.resources
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.Properties.Resources.resources
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.csproj.GenerateResource.cache
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.csproj.CoreCompileInputs.cache
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.exe
+E:\2nd Year\c#\LabClass4\LabClass4\obj\Debug\LabClass4.pdb
