@@ -8,6 +8,7 @@ namespace LabClass4
 {
     internal class item
     {
+        static List<item> items = new List<item>();
         public int number { get; set; }
         public String date { get; set; }
         public int inventoryNumber { get; set; }
@@ -15,9 +16,13 @@ namespace LabClass4
         public int quantity { get; set; }
         public double price { get; set; }
 
-        public void Save(item item1)
+        public void Save()
         {
-            Console.WriteLine("Date Saved!");
+            items.Add(this);
+        }
+        public static List<item> GetAllItems()
+        {
+            return items;
         }
     }
 }
